@@ -88,15 +88,15 @@ Java:
 - javac
 
 Javascript:
-- eslint
-- standard
-- jscs
-- jshint
-- jsxhint
-- flow
+- [eslint](http://eslint.org)
+- [standard](http://standardjs.com/)
+- [jscs](http://jscs.info/)
+- [jshint](http://jshint.com/)
+- [jsxhint](https://github.com/STRML/JSXHint/)
+- [flow](http://flowtype.org/)
 
 JSON:
-- jsonlint
+- [jsonlint](http://jsonlint.com/)
 
 Jsx:
 - jsxhint
